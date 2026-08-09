@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joe Brayan Tchinda Oumbe</h1>
 
-<h3 align="center">🚀 Software Developer | Flutter & Full-Stack | Industrial Gamification</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=950&height=55&lines=%F0%9F%9A%80+Software+Developer+%7C+Flutter+%26+Full-Stack+%7C+Industrial+Gamification" alt="Animated title: Software Developer, Flutter and Full-Stack, Industrial Gamification" />
+</p>
 
 <p align="center">
   I build practical digital products across mobile, web, backend, and connected arcade experiences.
