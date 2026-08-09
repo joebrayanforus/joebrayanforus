@@ -96,8 +96,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joebrayanforus&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Joe Brayan's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joebrayanforus&layout=compact&theme=tokyonight&hide_border=true" alt="Joe Brayan's most used languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joebrayanforus&theme=tokyonight" alt="Joe Brayan's GitHub statistics" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joebrayanforus&theme=tokyonight" alt="Joe Brayan's most used languages" />
 </p>
 
 ## 🔥 GitHub Streak
